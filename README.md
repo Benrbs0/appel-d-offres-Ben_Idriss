@@ -1,23 +1,23 @@
-# appel-d-offres-Ben_Idriss
+# appel-d-offres-Ben_Idriss_Clement
 //infos a mettre :HQ= paris 
 
 19 avenue des Champs-Élysées paris (75008) 
 
 Idriss GALLINA     fondateur 
 
-Ben RIBES          intérimaire 
+Ben RIBES          monteur installeur
 
-Filipe GRANJES     informaticien 
+Filipe GRANJES     informaticien technique
 
 Mathieux MERIOT    démarcheur 
 
-Josianne PICHET    comptable 
+Josianne PICHET    RH
 
-Paskal GRANJES     RH 
+Paskal GRANJES     vendeur
 
 5 salariés 1 boss 
 
-700k de CA 
+500k de CA 
 
 1 site 
 
